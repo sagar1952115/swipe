@@ -76,7 +76,7 @@ const BulkEdit = () => {
 
       return updatedFormData;
     });
-    alert("redirecting to home page....");
+    alert("Edited all invoices successfuly 🥳");
     navigate("/");
   };
 
